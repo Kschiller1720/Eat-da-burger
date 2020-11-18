@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxrjohnson23/Eat-Da-Burger.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maxrjohnson23/Eat-Da-Burger/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/maxrjohnson23/Eat-Da-Burger#readme",
+  "homepage": "",
   "dependencies": {
     "express": "^4.16.2",
     "express-handlebars": "^3.0.0",
